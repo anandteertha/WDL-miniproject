@@ -1,0 +1,52 @@
+b - bold
+i - italics
+sup - superscript
+sub - subscript
+small - small font
+large - large font
+mark - highlight
+div - block tag
+span - inline tag
+strong - warning,importance,notice,seriousness,urgency(same as b but stronger)
+em - same as i tag it will fall under the cotegory of logical tags
+blockquote - references from another source
+del - strikes out 
+ins - and underline tag are same. ins falls under sematics/logical tags
+img - src( specifies the path of the image) alt( provides an alternating text for the image if the image is not loadded in the webpage)
+< -  &lt;
+> - &gt;
+blankspace - &nbsp;
+& - &amp;
+copyright - &copy;
+cent - &cent;
+<link rel = "icon" type = "image/png" href = "link here" />
+
+*HTML5 TAGS*
+
+article tag - gives the font for the type of newspaper
+aside tag - will be aside.
+<audio id = "audio1" controls = "">
+<source src ="..file name"
+type = "audio/mpeg">
+</audio>
+bdi - bi-direction isolation (for urdu or hebrew)
+canvas - for graphical representation
+command type = "command" label = "click" onclick = "click()"
+	function click() : alert("you have to click me")
+datalist - same as jlist in java swing.
+summary - tag as image
+embed tag -  is used to embed another media element
+figure - for embedding image source
+figurecapture - for adding image caption
+hgroup - used for wrapping the h1 to h6 tags
+keygen - for encryption
+progress - to show how much a task is completed.
+meter - used for scalar measurement
+
+nav - helps to navigate through the webpage
+output tag
+time tag
+wbr - 
+drag and drop - you can move and object from one place to another
+track - same as video + subtitles
+
